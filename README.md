@@ -50,7 +50,7 @@ Git
 Steps to run locally:
 
 Clone the repository:
-git clone https://github.com/yourusername/blood-bank-app.git
+git clone https://github.com/meniraj07/blood-bank-app.git
 cd blood-bank-app
 
 Install dependencies for both client and server:
