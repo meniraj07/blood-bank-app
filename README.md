@@ -45,3 +45,14 @@ Prerequisites:
 Node.js
 MongoDB
 Git
+
+Clone the repository:
+git clone https://github.com/meniraj07/blood-bank-app.git
+cd blood-bank-app
+
+Start the frontend:
+cd client
+npm start
+
+Access the app:
+Open your browser and go to http://localhost:8080
